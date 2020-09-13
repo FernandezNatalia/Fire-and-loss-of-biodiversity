@@ -285,7 +285,7 @@ else // diff > PI*3/4 + tol
 					<ShowLabel>true</ShowLabel>
 					<ResourceReference>
 						<PackageName><![CDATA[incendioshumedales]]></PackageName>
-						<ClassName><![CDATA[C:/Users/Usuario/Desktop/dataFuel.xlsx]]></ClassName>
+						<ClassName><![CDATA[Resources/dataFuel.xlsx]]></ClassName>
 					</ResourceReference>
 					<SaveInSnapshot>false</SaveInSnapshot>
 					<LoadOnStartup>true</LoadOnStartup>
@@ -1701,7 +1701,7 @@ main.setGridCellColor( this, c );]]></Action>
 	</Experiments>
 	<ModelResources>
 		<Resource>
-			<Path><![CDATA[C:/Users/Usuario/Desktop/dataFuel.xlsx]]></Path>
+			<Path><![CDATA[Resources/dataFuel.xlsx]]></Path>
 			<ReferencedFromUserCode>false</ReferencedFromUserCode>
 		</Resource>
 	</ModelResources>
